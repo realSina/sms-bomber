@@ -1,4 +1,4 @@
-<h1 align="center">📨 SMS Bomber</h1>
+<h1 align="center">SMS Bomber</h1>
 
 <p align="center">
 A fast multi-request tool for testing SMS/OTP endpoints in parallel.<br>
